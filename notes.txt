@@ -1,0 +1,8 @@
+For production use, stylesheets should be bundled separately:
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>React and ES6 Part 6</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css">
+    <!--For prod use: <link rel="stylesheet" href="/dist/styles.css" type="text/css">  -->
+</head>
